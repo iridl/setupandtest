@@ -1,5 +1,7 @@
 = When you need help with Git and/or Bitbucket
 
+Very minor addition.
+
 * Open an issue at https://bitbucket.org/ikh/setupandtest/issues/new
 * Also feel free to contact <<user ikh>> at ikh@iri.columbia.edu 
 

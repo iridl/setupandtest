@@ -35,8 +35,6 @@ Markdown web site:
 > text-to-HTML filters, the single biggest source of inspiration for
 > Markdown’s syntax is the format of plain text email. [#Gruber][]
 
-
-
 [#Gruber]: Daring Fireball: Markdown.  
 <http://daringfireball.net/projects/markdown/>
 
