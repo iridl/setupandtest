@@ -1,5 +1,7 @@
 # Introduction to MultiMarkdown
 
+Checking geocommit...
+
 Fixing issue number one...
 
 This document is an introduction to [MultiMarkdown][] --- what it is, how to
