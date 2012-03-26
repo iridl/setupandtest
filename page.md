@@ -18,8 +18,8 @@ If you have Git 1.7+, then you do not need to install Git Command line tools.
 
 == Mac
 
-* Git command line:  https://bitbucket.org/ikh/setup/downloads/git-1.7.9.1-intel-universal-snow-leopard.dmg
-* Git GUI: https://bitbucket.org/ikh/setup/downloads/GitXStable.app.zip
+* Git command line:  https://bitbucket.org/ikh/setupandtest/downloads/git-1.7.9.1-intel-universal-snow-leopard.dmg
+* Git GUI: https://bitbucket.org/ikh/setupandtest/downloads/GitXStable.app.zip
 
 = Introduce yourself to Git
 
