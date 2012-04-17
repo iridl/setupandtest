@@ -1834,3 +1834,5 @@ and others I have surely forgotten....
   to other formats. I think this will be more flexible and less error prone.
 
 * 1.0.1M - initial release
+
+* edit by JdC
