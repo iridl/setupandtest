@@ -1,5 +1,7 @@
 # Introduction to MultiMarkdown
 
+Testing SmartGit
+
 Checking geocommit...
 
 Fixing issue number one...
