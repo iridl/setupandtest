@@ -1,3 +1,5 @@
+I have no interest for the content of that file at all
+
 # Introduction to MultiMarkdown
 
 Testing SmartGit
