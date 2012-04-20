@@ -2,7 +2,9 @@ I have no interest for the content of that file at all
 
 # Introduction to MultiMarkdown
 
-Testing SmartGit
+Working on really nice feature. Dont want it to mix with Remi and John for now...
+
+--- Testing SmartGit
 
 Checking geocommit...
 
