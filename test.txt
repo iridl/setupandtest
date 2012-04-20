@@ -9,6 +9,7 @@ Experimental step 2
 Working on really nice feature. Dont want it to mix with Remi and John for now...
 
 --- Testing SmartGit
+Nice feature 2
 
 Checking geocommit...
 
