@@ -1,5 +1,9 @@
 I have no interest for the content of that file at all
 
+Working on experimental feature, step 1
+
+Experimental step 2
+
 # Introduction to MultiMarkdown
 
 Working on really nice feature. Dont want it to mix with Remi and John for now...
