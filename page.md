@@ -1,5 +1,9 @@
 Testing SourceTree
 
+First commit from the data server!
+Second commit.
+Third commit
+
 = When you need help with Git and/or Bitbucket
 
 * Open an issue at https://bitbucket.org/ikh/setupandtest/issues/new
