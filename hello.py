@@ -13,8 +13,7 @@ This is a 'docstring'. See python.org for more details.
 print
 print 'Hello Earthlings!'
 print
-print 'You have much to learn from us, as well as from other \
-advanced civilizations.'
+print 'We have much to learn from you, as well as from other advanced civilizations.'
 print
 
 ########### T h e  E n d ###########
