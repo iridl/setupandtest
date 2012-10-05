@@ -4,7 +4,7 @@
 
 The only necessary line is the one that prints 'Hello earthlings!' 
 Everything else can be deleted and the script will still run (although 
-it won't print the second sentence in this case).
+it won't print the second sentence in this case). Lets play volleyball and eat pizza.
 
 This is a 'docstring'. See python.org for more details.
 
